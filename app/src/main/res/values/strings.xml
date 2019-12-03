@@ -1,11 +1,12 @@
 <resources>
-    <string name="app_name">Court Counter</string>
-    <string name="_3">3</string>
+    <string name="app_name">FootBall Match Tracker</string>
     <string name="team_a">Team A</string>
-    <string name="_3_points">+3 points</string>
-    <string name="_2_points">+2 points</string>
-    <string name="free_throw">free throw</string>
     <string name="team_b">Team B</string>
     <string name="reset">Reset</string>
     <string name="_0">0</string>
+    <string name="substitutes_0">Substitutes: 0</string>
+    <string name="fouls_0">Fouls: 0</string>
+    <string name="goal">GOAL</string>
+    <string name="foul">FOUL</string>
+    <string name="substitute">SUBSTITUTE</string>
 </resources>
